@@ -91,6 +91,7 @@ namespace GraficadorSeñales
         public static Señal limiteSuperior(Señal señal1, Señal señal2)
         {
             SeñalResultante resultado = new SeñalResultante();
+
             /*SeñalResultante resultado1 = new SeñalResultante();
             SeñalResultante resultado2 = new SeñalResultante();*/
 
